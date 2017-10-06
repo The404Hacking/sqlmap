@@ -52,15 +52,30 @@ Links
 Translations
 ----
 
-* [Bulgarian](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-bg-BG.md)
-* [Chinese](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-zh-CN.md)
-* [Croatian](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-hr-HR.md)
-* [French](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-fr-FR.md)
-* [Greek](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-gr-GR.md)
-* [Indonesian](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-id-ID.md)
-* [Italian](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-it-IT.md)
-* [Japanese](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-ja-JP.md)
-* [Polish](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-pl-PL.md)
-* [Portuguese](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-pt-BR.md)
-* [Spanish](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-es-MX.md)
-* [Turkish](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-tr-TR.md)
+* [Bulgarian](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-bg-BG.md)
+* [Chinese](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-zh-CN.md)
+* [Croatian](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-hr-HR.md)
+* [French](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-fr-FR.md)
+* [Greek](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-gr-GR.md)
+* [Indonesian](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-id-ID.md)
+* [Italian](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-it-IT.md)
+* [Japanese](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-ja-JP.md)
+* [Polish](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-pl-PL.md)
+* [Portuguese](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-pt-BR.md)
+* [Spanish](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-es-MX.md)
+* [Turkish](https://github.com/The404Hacking/sqlmap/blob/master/doc/translations/README-tr-TR.md)
+
+## Download and Clone
+> Download: [https://github.com/The404Hacking/sqlmap/archive/master.zip](https://github.com/The404Hacking/sqlmap/archive/master.zip)
+
+> Clone: git clone [https://github.com/The404Hacking/sqlmap.git](https://github.com/The404Hacking/sqlmap.git)
+
+## The404Hacking | Digital UnderGround Team
+[The404Hacking](https://T.me/The404Hacking)
+
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
+
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
+
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
