@@ -14,11 +14,11 @@ You can visit the [collection of screenshots](https://github.com/sqlmapproject/s
 Installation
 ----
 
-You can download the latest tarball by clicking [here](https://github.com/sqlmapproject/sqlmap/tarball/master) or latest zipball by clicking  [here](https://github.com/sqlmapproject/sqlmap/zipball/master).
+You can download the latest tarball by clicking [here](https://github.com/The404Hacking/sqlmap/tarball/master) or latest zipball by clicking  [here](https://github.com/The404Hacking/sqlmap/zipball/master).
 
-Preferably, you can download sqlmap by cloning the [Git](https://github.com/sqlmapproject/sqlmap) repository:
+Preferably, you can download sqlmap by cloning the [Git](https://github.com/The404Hacking/sqlmap) repository:
 
-    git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+    git clone --depth 1 https://github.com/The404Hacking/sqlmap.git sqlmap-dev
 
 sqlmap works out of the box with [Python](http://www.python.org/download/) version **2.6.x** and **2.7.x** on any platform.
 
@@ -40,14 +40,14 @@ Links
 ----
 
 * Homepage: http://sqlmap.org
-* Download: [.tar.gz](https://github.com/sqlmapproject/sqlmap/tarball/master) or [.zip](https://github.com/sqlmapproject/sqlmap/zipball/master)
-* Commits RSS feed: https://github.com/sqlmapproject/sqlmap/commits/master.atom
-* Issue tracker: https://github.com/sqlmapproject/sqlmap/issues
-* User's manual: https://github.com/sqlmapproject/sqlmap/wiki
-* Frequently Asked Questions (FAQ): https://github.com/sqlmapproject/sqlmap/wiki/FAQ
+* Download: [.tar.gz](https://github.com/The404Hacking/sqlmap/tarball/master) or [.zip](https://github.com/The404Hacking/sqlmap/zipball/master)
+* Commits RSS feed: [master.atom](https://github.com/The404Hacking/sqlmap/commits/master.atom)
+* Issue tracker: [Issue](https://github.com/sqlmapproject/sqlmap/issues)
+* User's manual: [Wiki](https://github.com/sqlmapproject/sqlmap/wiki)
+* Frequently Asked Questions (FAQ): [FAQ](https://github.com/sqlmapproject/sqlmap/wiki/FAQ)
 * Twitter: [@sqlmap](https://twitter.com/sqlmap)
-* Demos: [http://www.youtube.com/user/inquisb/videos](http://www.youtube.com/user/inquisb/videos)
-* Screenshots: https://github.com/sqlmapproject/sqlmap/wiki/Screenshots
+* Demos: [YouTube](http://www.youtube.com/user/inquisb/videos)
+* Screenshots: [Screenshots[(https://github.com/sqlmapproject/sqlmap/wiki/Screenshots)
 
 Translations
 ----
