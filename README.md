@@ -47,7 +47,7 @@ Links
 * Frequently Asked Questions (FAQ): [FAQ](https://github.com/sqlmapproject/sqlmap/wiki/FAQ)
 * Twitter: [@sqlmap](https://twitter.com/sqlmap)
 * Demos: [YouTube](http://www.youtube.com/user/inquisb/videos)
-* Screenshots: [Screenshots[(https://github.com/sqlmapproject/sqlmap/wiki/Screenshots)
+* Screenshots: [Screenshots](https://github.com/sqlmapproject/sqlmap/wiki/Screenshots)
 
 Translations
 ----
